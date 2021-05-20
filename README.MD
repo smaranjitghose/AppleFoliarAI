@@ -53,10 +53,30 @@ git clone https://github.com/smaranjitghose/AppleFoliar.ai.git
 cd AppleFoliar.ai
 ```
 
-### For running inference on a sample image:
+#### Setting up code quality and formatting for the project [This is required only when one plans to contribute to the project]
+
+- Install pre-commit package
 
 ```
-python src/test.py --input path_to_image.py
+pip install pre-commit
+```
+
+- Setup pre-commit hooks as per the desired configurations of the project
+
+```
+pre-commit install
+```
+
+- Check if pre-commit is working
+
+```
+pre-commit run
+```
+
+#### For running inference on a sample image:
+
+```
+python src/inference.py --input path_to_image
 ```
 
 ## Planned work:
