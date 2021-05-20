@@ -1,4 +1,4 @@
-<h1 align = "center"> Apple Foliar AI</h1>
+<h1 align = "center">Apple Foliar AI</h1>
 
 <p align = "center"><img src = "./assets/banner.png" alt="Banner" width="540" height="360"></p>
 
@@ -8,7 +8,7 @@ Apple is a widely consumed fruit across the world which has over 7500 cultivars 
 
 ## Data:
 
-We would making use of the Plant Pathology dataset[1] used in the Eight Workshop on Fine-Grained Visual Categorization held in conjuction with CVPR 2021.
+We would be making use of the Plant Pathology dataset[1] used in the Eight Workshop on Fine-Grained Visual Categorization held in conjuction with CVPR 2021.
 
 The dataset is structured as follows:
 
@@ -92,16 +92,11 @@ python src/inference.py --input path_to_image
 
 ## The geeks🤓 behind this initiative:
 
-#### Our hard-working Project Maintainers👨‍🏫:
+### Our hard-working Project Maintainers👨‍🏫:
 
-<p align="center">
-<img width=20% src="https://avatars2.githubusercontent.com/u/46641503?v=4">&ensp;&ensp;&ensp;
-<img width=20% src="https://avatars2.githubusercontent.com/u/40017559?v=4">
-</p>
-
-<a href="https://github.com/smaranjitghose">
-<h5 align="center"><b>Smaranjit Ghose</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<a href="https://github.com/anushbhatia"><b>Anush Bhatia</b></h5></a>
+| ![](https://avatars.githubusercontent.com/u/46641503?v=4) | ![](https://avatars.githubusercontent.com/u/40017559?v=4) | ![](https://avatars.githubusercontent.com/u/16633975?v=4) |
+| :-------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+|   [Smaranjit Ghose](https://github.com/smaranjitghose)    |      [Anush Bhatia](https://github.com/anushbhatia)       |  [Aditya Jyoti Paul](https://github.com/phreakyphoenix)   |
 
 #### Our valuable Contributors👩‍💻👨‍💻 :
 
