@@ -1,5 +1,6 @@
 [tool.poetry]
 name = "Apple Foliar AI"
+authors = ["Smaranjit Ghose"]
 version = "0.0.1"
 description = "Using Artificial Intelligence to detect foliar diseases in apples"
 license = "BSD 3-Clause"
@@ -9,6 +10,9 @@ repository = "https://github.com/smaranjitghose/AppleFoliarAI"
 documentation = "https://github.com/smaranjitghose/AppleFoliarAI"
 keywords = ["Apple Foliar AI", "Deep Learning", "Plant Pathology"]
 
+
+[tool.poetry.dependencies]
+python = "^3.8"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.12.1"
@@ -25,11 +29,6 @@ flake8-bandit = "^2.1.2"
 darglint = "^1.8.0"
 isort = "^5.8.0"
 black = "^20.8b1"
-safety = "^1.10.3"
-mypy = "^0.812"
-sphinx = "^3.5.4"
-recommonmark = "^0.7.1"
-bump2version = "^1.0.1"
 pytest = "^6.2.3"
 xdoctest = "^0.15.4"
 
