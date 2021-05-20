@@ -8,7 +8,7 @@ Apple is a widely consumed fruit across the world which has over 7500 cultivars 
 
 ## Data:
 
-We would making use of the Plant Pathology dataset[1] used in the Eight Workshop on Fine-Grained Visual Categorization held in conjuction with CVPR 2021. 
+We would making use of the Plant Pathology dataset[1] used in the Eight Workshop on Fine-Grained Visual Categorization held in conjuction with CVPR 2021.
 
 The dataset is structured as follows:
 
