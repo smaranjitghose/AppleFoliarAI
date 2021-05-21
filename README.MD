@@ -27,19 +27,19 @@ The dataset is structured as follows:
 Our training data is classified into the following categories:
 
 | Foliar Disease Condition        | Number of Images |
-| ------------------------------- | ---------------- |
-| Scab                            | 4826             |
-| Healthy                         | 4624             |
-| frog_eye_leaf_spot              | 3181             |
-| Rust                            | 1860             |
-| Complex                         | 1602             |
-| Powdery_mildew                  | 1184             |
-| scab frog_eye_leaf_spot         | 686              |
-| scab frog_eye_leaf_spot complex | 200              |
-| frog_eye_leaf_spot complex      | 165              |
-| rust frog_eye_leaf_spot         | 120              |
-| rust complex                    | 97               |
-| powdery_mildew complex          | 87               |
+| ------------------------------- | :--------------: |
+| Scab                            |       4826       |
+| Healthy                         |       4624       |
+| frog_eye_leaf_spot              |       3181       |
+| Rust                            |       1860       |
+| Complex                         |       1602       |
+| Powdery_mildew                  |       1184       |
+| scab frog_eye_leaf_spot         |       686        |
+| scab frog_eye_leaf_spot complex |       200        |
+| frog_eye_leaf_spot complex      |       165        |
+| rust frog_eye_leaf_spot         |       120        |
+| rust complex                    |        97        |
+| powdery_mildew complex          |        87        |
 
 ## Usage:
 
@@ -113,8 +113,10 @@ python src/inference.py --input path_to_image
 
 ## References:
 
-1.
+1. ```
+   Thapa, Ranjita; Zhang, Kai; Snavely, Noah; Belongie, Serge; Khan, Awais. The Plant Pathology Challenge 2020 data set to classify foliar disease of apples. Applications in Plant Sciences, 8 (9), 2020.
+   ```
 
 ```
-Thapa, Ranjita; Zhang, Kai; Snavely, Noah; Belongie, Serge; Khan, Awais. The Plant Pathology Challenge 2020 data set to classify foliar disease of apples. Applications in Plant Sciences, 8 (9), 2020.
+
 ```
