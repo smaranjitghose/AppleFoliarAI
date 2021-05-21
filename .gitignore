@@ -5,6 +5,6 @@ notebooks/*
 .vscode/*
 .DS_Store
 # Python Bytecode
-__pycache__/ 
+__pycache__/
 # Local Development Folder
 tryout/

@@ -1,0 +1,22 @@
+#  Our GitHub Repository's essentials: ReadMe, License, Code of Conduct, GitIgnore, Guides
+README.MD
+CONTRIBUTING.md
+CHANGELOG.MD
+LICENSE
+CODE_OF_CONDUCT.MD
+.gitignore
+# Python Bytecode
+__pycache__/
+README.MD
+# Jupyter Notebook Related Stuff
+.ipynb_checkpoints/*
+notebooks/*
+# Model Files
+models/*
+# VSCode config Log
+.vscode/*
+.DS_Store
+# Configuration Files for Heroku
+Procfile
+setup.sh
+.slugignore
