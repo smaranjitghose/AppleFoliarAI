@@ -116,7 +116,3 @@ python src/inference.py --input path_to_image
 1. ```
    Thapa, Ranjita; Zhang, Kai; Snavely, Noah; Belongie, Serge; Khan, Awais. The Plant Pathology Challenge 2020 data set to classify foliar disease of apples. Applications in Plant Sciences, 8 (9), 2020.
    ```
-
-```
-
-```
